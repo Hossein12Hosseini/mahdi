@@ -5,3 +5,8 @@ body{
 header{
     color: green;
 }
+.container{
+    width: 50%;
+    background:purple;
+    text-align: center;
+}
